@@ -236,7 +236,7 @@ const FormalNeuronVisualization = () => {
     <div className="p-6 bg-gray-50 min-h-screen">
       <div className="max-w-7xl mx-auto">
         <h1 className="text-3xl font-bold text-center mb-2 text-gray-800">
-          Формален (изкуствен) неврон
+          Формален неврон
         </h1>
         <p className="text-center text-gray-600 mb-6">
           Интерактивна визуализация на компонентите и математическите изчисления
